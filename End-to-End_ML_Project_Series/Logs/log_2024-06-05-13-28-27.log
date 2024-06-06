@@ -1,0 +1,10 @@
+2024-06-05 13:28:27,063 INFO root start
+2024-06-05 13:28:27,164 INFO root Starting IncreamentalLoad Process on 2024-06-05
+2024-06-05 13:28:27,220 INFO root Table name :- Table Created Sucessfully Or Table Allready exists
+2024-06-05 13:28:27,220 INFO root Common Table name :- Table Created Sucessfully Or Table Allready exists
+2024-06-05 13:28:27,239 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): www.flipkart.com:443
+2024-06-05 13:28:27,895 DEBUG urllib3.connectionpool https://www.flipkart.com:443 "GET /search?q=laptop&sort=recency_desc&page=0 HTTP/1.1" 200 None
+2024-06-05 13:28:28,073 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): www.flipkart.com:443
+2024-06-05 13:28:28,577 DEBUG urllib3.connectionpool https://www.flipkart.com:443 "GET /search?q=laptop&sort=recency_desc&page=1 HTTP/1.1" 200 None
+2024-06-05 13:28:28,708 INFO root Rows Inserted 33 Number of pages Scraped 1
+2024-06-05 13:28:28,708 INFO root Ending IncreamentalLoad Process
